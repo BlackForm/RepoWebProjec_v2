@@ -1,4 +1,4 @@
-FROM mysterysd/wzmlx:latest
+FROM sfdev3699/proyect-tg-multi:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
